@@ -1,6 +1,7 @@
 """
 Freqtrade is the main module of this bot. It contains the class Freqtrade()
 """
+#beginning of Slovinski fork
 import copy
 import logging
 import traceback
